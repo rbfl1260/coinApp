@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/coinApp/static/js/main.6befd980.js",
+    "static/js/453.b03a132b.chunk.js": "/coinApp/static/js/453.b03a132b.chunk.js",
+    "index.html": "/coinApp/index.html",
+    "main.6befd980.js.map": "/coinApp/static/js/main.6befd980.js.map",
+    "453.b03a132b.chunk.js.map": "/coinApp/static/js/453.b03a132b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6befd980.js"
+  ]
+}
